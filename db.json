@@ -20,7 +20,7 @@
       "postId": 1
     },
     {
-      "id": 21,
+      "id": 2,
       "body": "some comment",
       "postId": 1
     }
@@ -32,7 +32,7 @@
       "password": "password"
     },
     {
-      "id": 1,
+      "id": 2,
       "username": "steve",
       "password": "password2"
     },
