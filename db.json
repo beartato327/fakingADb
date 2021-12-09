@@ -25,7 +25,21 @@
       "postId": 1
     }
   ],
-  "profile": {
-    "name": "typicode"
-  }
+  users: [
+    {
+      "id": 1,
+      "username": "john",
+      "password": "password"
+    },
+    {
+      "id": 1,
+      "username": "steve",
+      "password": "password2"
+    },
+    {
+      "id": 1,
+      "username": "Jane",
+      "password": "password1"
+    },
+    ],
 }
