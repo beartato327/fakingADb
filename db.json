@@ -1,4 +1,15 @@
 {
+  {
+  "customers": [
+    {
+      "id": 1,
+      "name": "Fun Times",
+      "email": [],
+      "email2": [],
+      "active": true
+    }
+  ]
+},
   "posts": [
     {
       "id": 1,
